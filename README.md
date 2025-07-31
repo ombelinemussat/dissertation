@@ -32,7 +32,7 @@ The notebooks should be run in the following order:
         It will be used in the next notebook.  
 - regressions.ipynb
 
-In addition to this main analysis, the following notebooks should be ran as well:
+In addition to this main analysis, the following notebooks should be run as well:
 
 To see if there is a difference between the negativity of Brexit articles and other articles:
 - scraping_other_articles.ipynb
